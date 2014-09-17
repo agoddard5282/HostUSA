@@ -1,0 +1,88 @@
+
+.siteHeader .logo
+{
+	float: left;
+	width: 320px;
+	height: 85px;
+	margin: 18px 0;
+	background: transparent url(https://hostusa.us/images/logo_new.png) left center no-repeat;
+}
+
+
+
+
+/* FULL FEATURE LIST */
+
+.full-feature-list {
+	font-size: 18px;
+	font-family: Georgia, helvetica, arial, sans-serif;
+	color: #474c52;
+	text-align: center;
+	font-style: italic;
+	border-top: 1px solid #cdcdcd;
+	border-bottom: 1px solid #cdcdcd;
+	padding: 10px 0 10px 0;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.full-feature-list a {
+	color: #474c52;
+	text-decoration: none;
+}
+
+.full-feature-list a:hover {
+	text-decoration: underline;
+}
+
+/* ALL PLANS LIST */
+
+ul.allplans1 {
+	padding-bottom: 30px;
+	border-bottom: solid 1px #cdcdcd;
+}
+
+		ul.allplans1 li {
+			float: left;
+			width: 212px;
+			margin-right: 15px;
+			border-right: 1px solid #cdcdcd;
+			height: 300px;
+		}
+		
+		ul.allplans1 li span {
+			font-size: 16px;
+			font-weight: lighter;
+			color: #b73800;
+		}
+		
+		ul.allplans1 li em {
+			font-style: normal;
+			display: block;
+			font-size: 10px;
+			padding-top: 0px;
+			color: #ccc;
+		}
+		
+		ul.allplans1 li p {
+			padding-top: 20px;
+			line-height: 18px;
+		}
+		
+		ul.allplans1 ul {
+			list-style-position: inside;
+			list-style-image: url(images/small-yes.png);
+			margin-top: 10px;
+		}
+		
+		ul.allplans1 ul li {
+			width: 100%;
+			margin-bottom: 10px;
+			border-right: none;
+			height: 100%;
+		}
+		
+		
+.footercards {float: left; padding: 11px 0px 0px 17px; width: 960px;}
+.footercards img {float: left; margin: 0px 4px 0px 0px;}
+		
